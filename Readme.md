@@ -1,3 +1,7 @@
+# My Notes: [note.md](./note.md)
+
+---
+
 # Koa Examples
 
   A repository containing small examples to illustrate the use of Koa

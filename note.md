@@ -74,7 +74,7 @@ app.use(function *(next){
 ```
 
 
-### Route
+### [Route](blog/index.js)
 
 ```js
 // --route
